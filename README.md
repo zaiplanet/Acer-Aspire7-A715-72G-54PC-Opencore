@@ -4,7 +4,7 @@ EFI, manual fix and link support run on Opencore ver.0.7.1
 
 | Infor | Description |
 | --- | --- |
-| CPU | Intel Core i5-8300H 2.3Ghz (Turbo Boost to 4Ghz) |
+| CPU | Intel Core i5-8300H 2.3Ghz (Turbo Boost to 4Ghz) / Intel® Core™ i7-8750H Processor (9M Cache, up to 4.10 GHz) |
 | Graphics | Intel UHD Graphics 630 |
 | External GPU | NVIDIA GeForce GTX 1050 |
 | Audio | Realtek ALC 255 |
